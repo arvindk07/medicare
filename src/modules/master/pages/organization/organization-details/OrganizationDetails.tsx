@@ -100,17 +100,17 @@ export const OrganizationDetails = () => {
             </span>
           )}
         </div>
-        <div className="h-12 min-w-40 bg-gray-400 absolute right-8 top-2 flex justify-end gap-2 items-center px-[5px] rounded-md">
-          <div className="bg-purple-300 h-[80%] px-2 flex justify-center items-center min-w-[6rem] rounded">
+        <div className="h-12 min-w-40 bg-gray-900 absolute right-8 top-4 flex justify-end gap-2 items-center px-[5px] rounded-md">
+          <div className="bg-gray-700 text-white h-[80%] px-2 flex justify-center items-center min-w-[6rem] rounded cursor-pointer">
             General Info
           </div>
-          <div className="bg-purple-300 h-[80%] px-2 flex justify-center items-center min-w-[6rem] rounded">
+          <div className="bg-gray-700 text-white h-[80%] px-2 flex justify-center items-center min-w-[6rem] rounded cursor-pointer">
             Upload Doc
           </div>
-          <div className="bg-purple-300 h-[80%] px-2 flex justify-center items-center min-w-[6rem] rounded">
+          <div className="bg-gray-700 text-white h-[80%] px-2 flex justify-center items-center min-w-[6rem] rounded cursor-pointer">
             MOU
           </div>
-          <div className="bg-purple-300 h-[80%] px-2 flex justify-center items-center min-w-[6rem] rounded">
+          <div className="bg-gray-700 text-white h-[80%] px-2 flex justify-center items-center min-w-[6rem] rounded cursor-pointer">
             Profile
           </div>
         </div>
